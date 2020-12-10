@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xDkdi&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xDkd&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true" />
 
 - 📩 Talk to me via [Email](mailto:ritiansun96@gmail.com)
 - 📱 Find fun on my website [MR. LEE](https://sunwei.blog/)
