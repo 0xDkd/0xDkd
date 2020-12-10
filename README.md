@@ -5,7 +5,8 @@
 - 📩 Talk to me via [Email](mailto:ritiansun96@gmail.com)
 - 📱 Find fun on my website [A 桑的杂货铺](https://sunwei.blog/)
 
-曾经是一名学生，现在是一名车辆🚄工程师，有四年编程实战经验，一直把编程当做自己的爱好。
+曾经是一名学生，现在是一名车辆🚄工程师。
+- 编程是爱好，不是职业。
 - 距离学习第一门编程语言 `Pascal` 已经 10 年了
 - 使用 Vue 已经 3 年了
 - 学习 Golang 已经 2 年了。
